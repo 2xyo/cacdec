@@ -1,5 +1,5 @@
 # Minimum CMake required
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.7)
 
 find_package(PythonInterp 3.5 REQUIRED)
 find_package(PythonLibs 3.5 REQUIRED)
