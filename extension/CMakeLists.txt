@@ -1,5 +1,5 @@
 # Minimum CMake required
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.7)
 
 # Project
 project(python-freerdp LANGUAGES C VERSION 1.0.0)
