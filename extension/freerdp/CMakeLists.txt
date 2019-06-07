@@ -1,5 +1,5 @@
 # Minimum CMake required
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.7)
 
 include(${CMAKE_ROOT}/Modules/ExternalProject.cmake)
 
